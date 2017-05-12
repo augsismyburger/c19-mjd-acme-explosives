@@ -1,0 +1,148 @@
+{
+    "products": [
+        {
+        "sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Swass Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+            }
+        },
+        {
+        "whipper-snappers": {
+            "id": 0,
+            "type": 0,
+            "name": "Whipper Snappers",
+            "description": "Toss em, throw em, stomp em. Maybe don't eat them."
+            }
+        },
+        {
+        "black-snakes": {
+            "id": 0,
+            "type": 0,
+            "name": "Black Ash Snakes",
+            "description": "Possibly the most boring firecracker of all time. LIght em, and they grow. Snore."
+            }
+        },
+        {
+        "black-cats": {
+            "id": 1,
+            "type": 0,
+            "name": "Black Cats",
+            "description": "Little sticks of fun that might make your fingers numb if you hold on too long."
+            }
+        },
+        {
+        "bottle-rockets": {
+            "id": 1,
+            "type": 0,
+            "name": "Moon Tarvelers",
+            "description": "A mini explosive rocket. Best to avoid standing over."
+            }
+        },
+        {
+        "roman-candles": {
+            "id": 1,
+            "type": 0,
+            "name": "Roman Candles",
+            "description": "Sticks of fun that shoot flaming and popping balls. Defiantely don't hold them. jk.. they're way more fun to hold."
+            }
+        },
+        {
+        "basic-morters": {
+            "id": 2,
+            "type": 0,
+            "name": "Mortar and Mortar Shells",
+            "description": "Large arial fireworks. Various styles and colors"
+            }
+        },
+        {
+        "giant-fountain": {
+            "id": 2,
+            "type": 0,
+            "name": "Fire Sploosher",
+            "description": "A thiry foot fountain of flame straight from the depths of hell."
+            }
+        },
+        {
+        "sonic-boomer": {
+            "id": 2,
+            "type": 0,
+            "name": "Sonic Boom Mortar",
+            "description": "The loudest mortar shell we make. It'll make your dog crawl under the bed, and your Nana piss her pants."
+            }
+        },
+        {
+        "gun-powder": {
+            "id": 3,
+            "type": 1,
+            "name": "Gun Powder",
+            "description": "Explosive powder used for various fun things."
+            }
+        },
+        {
+        "detonation-fuse": {
+            "id": 3,
+            "type": 1,
+            "name": "Detonation Fuse",
+            "description": "A long fuse for detonating your choice of explosive."
+            }
+        },
+        {
+        "detonation-caps": {
+            "id": 3,
+            "type": 1,
+            "name": "Detonation Caps",
+            "description": "These are the guys that start the show. nest one into your explosive, connect a fuse and blow some things up."
+            }
+        },
+        {
+        "c4": {
+            "id": 4,
+            "type": 1,
+            "name": "C4 Plastic Explosive",
+            "description": "This is the real deal. Use with cation. Great at blowing up cars and doors."
+            }
+        },
+        {
+        "dynomite": {
+            "id": 4,
+            "type": 1,
+            "name": "Dynomite",
+            "description": "It's old school, but it still goes boom."
+            }
+        },
+        {
+        "fertalizer-combo": {
+            "id": 4,
+            "type": 1,
+            "name": "Fertalizer Bomb",
+            "description": "All natural and possibly illegal."
+            }
+        },
+        {
+        "moab": {
+            "id": 5,
+            "type": 1,
+            "name": "MOAB",
+            "description": "The Mother of All Bombs. Trump knows all about it. Actually, probably not."
+            }
+        },
+        {
+        "hydrogen-bomb": {
+            "id": 5,
+            "type": 1,
+            "name": "Hydrogen Bomb",
+            "description": "A-bomb, nuke, hydrogen bomb. It goes by many names. It'll do some damage."
+            }
+        },
+        {
+        "cluster-bomb": {
+            "id": 5,
+            "type": 1,
+            "name": "Cluster Bomb",
+            "description": "For when you're not exactily sure what you want to bomb, just bomb everything."
+            }
+        }
+    ]
+}

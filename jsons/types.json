@@ -1,0 +1,40 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "Yougin' Fireworks",
+            "description": "Whipper Snappers, sparklers, and other things that should keep you out of the ER"
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "Might-hurt Fireworks",
+            "description": "These pack a little punch. Black Cats, bottle rockets, and roman candles."
+        },
+        {
+            "id": 2,
+            "category": 0,
+            "name": "Might-lose-appendeges Fireworks",
+            "description": "The big show. These should probably require emergency services to be present."
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "name": "Black Powder",
+            "description": "Like the name says, black powder. Use it how you will."
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "Industrial Explosives",
+            "description": "These will destroy almost anything. Use in small quantities."
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "name": "Bombs",
+            "description": "Mother Of All Bombs, Hydrogen bombs, cluster bombs.. Check yourself before you wreck yourself."
+        }
+    ]
+}
